@@ -1,0 +1,13 @@
+Acceso usuario
+ usuario: us
+ contraseña: asd
+ 
+
+Acceso admin
+	
+ usuario: ad
+ contraseña: asd
+
+Esos usuarios estan creados, de todas formas puedes crear tu propio usuario.
+
+La base de datos esta exportada, el nombre es validarr.

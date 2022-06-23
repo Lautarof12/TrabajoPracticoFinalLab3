@@ -1,0 +1,43 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+.boton{
+    margin-top: 20%;
+}
+h1{
+    
+    color: white;
+
+    height: 50px;
+    ;
+}
+body{
+    background-image: "fondo.jpg";
+}
+nav{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: auto;
+    
+}
+nav ul{
+    position: relative;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    height: 45px;
+}  
+nav ul li{
+    
+    display: inline-block;
+    width: 24%;
+    line-height: 100px;
+    list-style: none;
+   
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
